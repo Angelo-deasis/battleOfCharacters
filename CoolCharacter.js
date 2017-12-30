@@ -13,9 +13,9 @@ var Character = function(name,life,atk,def) {
 }
 
 var char1 = new Character("Timmy", 200, 7, 5);
+var char2 = new Character ("Bob", 300, 10, 3);
+var char3 = new Character ("TheGoldenRetriever", 100, 15, 0);
 
-
-var char2 = new Character ("Bob", 300, 10, 3)
 
 console.log(char1);
 console.log(char2);
