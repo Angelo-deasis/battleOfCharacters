@@ -1,0 +1,8 @@
+undefined
+==============
+Name: a
+Type: a
+HP: 12
+Atk Pts: 12
+Def Pts: 12
+==============

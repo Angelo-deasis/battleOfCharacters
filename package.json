@@ -1,0 +1,23 @@
+{
+  "name": "battleofcharacters",
+  "version": "1.0.0",
+  "description": "Battle App",
+  "main": "CoolCharacter.js",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelo-deasis/battleOfCharacters.git"
+  },
+  "author": "Angelo De Asis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angelo-deasis/battleOfCharacters/issues"
+  },
+  "homepage": "https://github.com/Angelo-deasis/battleOfCharacters#readme"
+}
